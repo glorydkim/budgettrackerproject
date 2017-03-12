@@ -1,5 +1,5 @@
-# budgettrackerproject
-monthly budget tracker project 
+# Budget Tracker Project
+Monthly budget tracker project 
 
 The budget tracking program is a Java based program that will allow a user to setup a budget and track all expenditures from the budget account. This program will follow the “envelope” budgeting method, which allows a user to setup an amount to be deposited across multiple spending or saving categories. The program will have the user setup all categories that they would like to track spending from. The user can either fund their categories manually or setup a monthly recurring payment that would be divided among the categories as specified. 
 
